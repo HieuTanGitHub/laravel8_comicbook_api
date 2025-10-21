@@ -53,7 +53,7 @@ composer install hay composer update
 
 Mở file .env và sửa các thông tin kết nối database:
 
-## 🛠️ 4.1 File database sachtruyen247.sql
+## 🛠️ 4.1 File database metruyenhot.sql
 
 APP_NAME="Laravel Comic"
 APP_URL=http://localhost:8000
@@ -77,4 +77,15 @@ Mở trình duyệt và truy cập:
 👉 http://localhost:8000
 
 ## 🚀 6. Contact
-fb/hieutruong19 | zalo 0932023992 fix code, any question
+fb/hieutruong19 | zalo 0932023992 fix code, any question | YT tutorials: https://www.youtube.com/@hieutancodeproject
+
+## 🚀 7. Website images
+<img width="1358" height="3059" alt="Image" src="https://github.com/user-attachments/assets/e19e4f01-30c3-4549-9944-05df664f2747" />
+
+<img width="1358" height="1970" alt="Image" src="https://github.com/user-attachments/assets/e6b6e908-bdc0-4597-88ab-d43bdf199331" />
+
+<img width="1358" height="1778" alt="Image" src="https://github.com/user-attachments/assets/1bbd846d-0545-4c93-acdf-bb87b6543195" />
+
+<img width="1358" height="1838" alt="Image" src="https://github.com/user-attachments/assets/034926cd-1115-4933-b281-32d7941a4c8a" />
+
+<img width="1358" height="819" alt="Image" src="https://github.com/user-attachments/assets/9d1493d2-1233-4638-8621-7c9b41549dc5" />
