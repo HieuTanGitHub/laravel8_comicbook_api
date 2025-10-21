@@ -53,7 +53,7 @@ composer install hay composer update
 
 Mở file .env và sửa các thông tin kết nối database:
 
-## 🛠️ 4.1 File database shopbanhang.sql
+## 🛠️ 4.1 File database sachtruyen247.sql
 
 APP_NAME="Laravel Comic"
 APP_URL=http://localhost:8000
