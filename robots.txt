@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /public/
+Disallow: /config/
+Disallow: /app/
+Sitemap: https://sachtruyen247.com/sitemap.xml
